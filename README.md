@@ -1,8 +1,8 @@
 # Cross Token
-This Solidity program is an ERC20 token contract named "Zandacross tokne". It demonstrates the use of the OpenZeppelin library for creating a burnable ERC20 token with ownership capabilities. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how to implement basic ERC20 token functionalities.
+This Solidity program is an ERC20 token contract named "Cross Token". It demonstrates the use of the OpenZeppelin library for creating a burnable ERC20 token with ownership capabilities. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how to implement basic ERC20 token functionalities.
 
 ## Description
-This program is a smart contract written in Solidity, a programming language utilized for creating smart contracts on the Ethereum blockchain. The contract, "ZandacrossToken" builds upon the capabilities of OpenZeppelin's ERC20 and Ownable contracts. It encompasses functions for minting new tokens, burning tokens, and transferring tokens. This program acts as an entry point to more intricate Solidity programming through the utilization of OpenZeppelin's libraries and can serve as a groundwork for progressively sophisticated token contracts moving forward.
+This program is a smart contract written in Solidity, a programming language utilized for creating smart contracts on the Ethereum blockchain. The contract, "Cross Token" builds upon the capabilities of OpenZeppelin's ERC20 and Ownable contracts. It encompasses functions for minting new tokens, burning tokens, and transferring tokens. This program acts as an entry point to more intricate Solidity programming through the utilization of OpenZeppelin's libraries and can serve as a groundwork for progressively sophisticated token contracts moving forward.
 
 ## Getting Started
 Executing Program
@@ -17,7 +17,7 @@ Once you are on the Remix website, follow these steps:
 - Copy and paste the code present in the token.sol file into the new file you created on Remix.
 - Compile the Code:
 - Click on the "Solidity Compiler" tab in the left-hand sidebar.
-- Ensure the "Compiler" option is set to "0.8.20" (or another compatible version).
+- Ensure the "Compiler" option is set to "0.8.24" (or another compatible version).
 - Click on the "Compile token.sol" button.
 - Deploy the Contract:
 - Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
